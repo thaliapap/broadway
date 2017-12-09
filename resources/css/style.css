@@ -3,6 +3,7 @@ font-family:Helvetica;
 color:black;
 }
 .block{
+  display: block;
   background-image:url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
   text-align: center;
   color:white;
