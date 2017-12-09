@@ -1,0 +1,9 @@
+body{
+font-style:Helvetica;
+color:black;
+}
+.block{
+  background-image:https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png;
+  text-align: center;
+  color:white;
+}
