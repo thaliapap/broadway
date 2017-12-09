@@ -41,4 +41,5 @@ h4{
 .footer{
     background-color: dimgray;
     text-align: left;
+    display:block;
 }
