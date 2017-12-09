@@ -1,6 +1,7 @@
 body{
 font-family:Helvetica;
 color:black;
+text-align: center;
 }
 .block{
   display: block;
@@ -26,4 +27,9 @@ font-family: Helvetica;
 font-size: 32px;
 font-weight: bold;
 text-align: center;
+}
+h3{
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
 }
